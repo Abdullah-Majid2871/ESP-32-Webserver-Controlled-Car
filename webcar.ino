@@ -2,7 +2,10 @@
 Authors: Talha and Abdullah
 Date: 2025-01-20
 Description: Code for car which is controlled via website
-Technical documentation used: https://docs.espressif.com/projects/arduino-esp32/en/latest/api/wifi.html
+Technical documentation: 
+https://docs.espressif.com/projects/arduino-esp32/en/latest/api/wifi.html
+https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 */
 
 #include <WiFi.h>
