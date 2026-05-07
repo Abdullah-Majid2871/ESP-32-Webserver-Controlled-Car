@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 #include <WiFi.h>
 #include <WebServer.h>
 
-// Function Protoypes
+// Function declarations
 void handle_OnConnect();
 void buttonPressed(const String& button);
 void handle_NotFound();
