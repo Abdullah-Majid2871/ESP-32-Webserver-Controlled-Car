@@ -5,6 +5,7 @@ Description: Code for car which is controlled via website
 Technical documentation: 
 https://docs.espressif.com/projects/arduino-esp32/en/latest/api/wifi.html
 https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer
+https://www.w3schools.com/jsref/api_fetch.asp
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 */
 
